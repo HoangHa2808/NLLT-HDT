@@ -1,0 +1,13 @@
+D:\LT_CS_HĐT\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\netcoreapp3.1\QuanLyDanhBa.exe
+D:\LT_CS_HĐT\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\netcoreapp3.1\QuanLyDanhBa.deps.json
+D:\LT_CS_HĐT\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\netcoreapp3.1\QuanLyDanhBa.runtimeconfig.json
+D:\LT_CS_HĐT\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\netcoreapp3.1\QuanLyDanhBa.runtimeconfig.dev.json
+D:\LT_CS_HĐT\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\netcoreapp3.1\QuanLyDanhBa.dll
+D:\LT_CS_HĐT\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\netcoreapp3.1\QuanLyDanhBa.pdb
+D:\LT_CS_HĐT\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\netcoreapp3.1\QuanLyDanhBa.csprojAssemblyReference.cache
+D:\LT_CS_HĐT\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\netcoreapp3.1\QuanLyDanhBa.AssemblyInfoInputs.cache
+D:\LT_CS_HĐT\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\netcoreapp3.1\QuanLyDanhBa.AssemblyInfo.cs
+D:\LT_CS_HĐT\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\netcoreapp3.1\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+D:\LT_CS_HĐT\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\netcoreapp3.1\QuanLyDanhBa.dll
+D:\LT_CS_HĐT\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\netcoreapp3.1\QuanLyDanhBa.pdb
+D:\LT_CS_HĐT\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\netcoreapp3.1\QuanLyDanhBa.genruntimeconfig.cache

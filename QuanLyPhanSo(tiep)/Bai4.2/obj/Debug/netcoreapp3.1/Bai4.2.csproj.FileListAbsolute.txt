@@ -1,0 +1,13 @@
+D:\LT_CS_HĐT\Bai4.2\Bai4.2\obj\Debug\netcoreapp3.1\Bai4.2.csprojAssemblyReference.cache
+D:\LT_CS_HĐT\Bai4.2\Bai4.2\obj\Debug\netcoreapp3.1\Bai4.2.AssemblyInfoInputs.cache
+D:\LT_CS_HĐT\Bai4.2\Bai4.2\obj\Debug\netcoreapp3.1\Bai4.2.AssemblyInfo.cs
+D:\LT_CS_HĐT\Bai4.2\Bai4.2\obj\Debug\netcoreapp3.1\Bai4.2.csproj.CoreCompileInputs.cache
+D:\LT_CS_HĐT\Bai4.2\Bai4.2\bin\Debug\netcoreapp3.1\Bai4.2.exe
+D:\LT_CS_HĐT\Bai4.2\Bai4.2\bin\Debug\netcoreapp3.1\Bai4.2.deps.json
+D:\LT_CS_HĐT\Bai4.2\Bai4.2\bin\Debug\netcoreapp3.1\Bai4.2.runtimeconfig.json
+D:\LT_CS_HĐT\Bai4.2\Bai4.2\bin\Debug\netcoreapp3.1\Bai4.2.runtimeconfig.dev.json
+D:\LT_CS_HĐT\Bai4.2\Bai4.2\bin\Debug\netcoreapp3.1\Bai4.2.dll
+D:\LT_CS_HĐT\Bai4.2\Bai4.2\bin\Debug\netcoreapp3.1\Bai4.2.pdb
+D:\LT_CS_HĐT\Bai4.2\Bai4.2\obj\Debug\netcoreapp3.1\Bai4.2.dll
+D:\LT_CS_HĐT\Bai4.2\Bai4.2\obj\Debug\netcoreapp3.1\Bai4.2.pdb
+D:\LT_CS_HĐT\Bai4.2\Bai4.2\obj\Debug\netcoreapp3.1\Bai4.2.genruntimeconfig.cache

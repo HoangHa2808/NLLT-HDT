@@ -1,0 +1,7 @@
+﻿20135,NguyenNhatNam,1ThongThienHoc DaLat,Nam,02/01/1998,013524
+20135,NguyenAnhNam,2ThongThienHoc DaLat,Nam,02/01/1998,013521
+20136,NguyenNhatHoang,7ThongThienHoc DaLat,Nam,02/04/1998,013525
+20137,NguyenNamAnh,4ThongThienHoc DaLat,Nu,05/01/1997,013554
+20138,HoangNhatNam,2BuiThiXuan DaLat,Nam,12/01/1999,013529
+20123,HoangThanhHa,TranNhanTong DaLat,Nu,02/06/1997,013527
+20124,HoangThanhHa,TDP13 Ninh Binh,Nu,02/06/1997,013526
