@@ -1,0 +1,5 @@
+ 
+Hinh tron:
+	 co ban kinh = 5, chu vi = 31, dien tich = 79
+Hinh tron:
+	 co ban kinh = 8, chu vi = 50, dien tich = 201
