@@ -1,7 +1,0 @@
- 
-Hinh vuong:
-	 co canh = 6, chu vi = 24, dien tich = 36
-Hinh vuong:
-	 co canh = 7, chu vi = 28, dien tich = 49
-Hinh vuong:
-	 co canh = 9, chu vi = 36, dien tich = 81

@@ -1,5 +1,0 @@
- 
-Hinh chu nhat:
-	 co chieu dai = 4, chieu rong = 3, chu vi = 14, dien tich = 12
-Hinh chu nhat:
-	 co chieu dai = 7, chieu rong = 5, chu vi = 24, dien tich = 35
